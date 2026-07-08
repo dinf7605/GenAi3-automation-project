@@ -27,33 +27,33 @@
 
 **워크플로우 구성 및 실행 로그**
 
-![Make 워크플로우 구성](./images/make-scenario.png)
+![Make 워크플로우 구성](../images/make-scenario.png)
 
 **실행 결과 - Discord 알림**
 
-![Make Discord 결과](./images/make-discord.png)
+![Make Discord 결과](../images/make-discord.png)
 
 **실행 결과 - 로그 시트**
 
-![Make 로그 시트](./images/make-log-sheet.png)
+![Make 로그 시트](../images/make-log-sheet.png)
 
 ### Zapier (Filter · 단방향 통과)
 
 **워크플로우 구성**
 
-![Zapier 워크플로우 구성](./images/zapier-zap.png)
+![Zapier 워크플로우 구성](../images/zapier-zap.png)
 
 **실행 결과 (긴급 통과) - Discord 알림**
 
-![Zapier Discord 결과](./images/zapier-discord.png)
+![Zapier Discord 결과](../images/zapier-discord.png)
 
 **실행 결과 (일반 중단) - Filter 중단 로그**
 
-![Zapier Filter 중단](./images/zapier-filtered.png)
+![Zapier Filter 중단](../images/zapier-filtered.png)
 
 **요금제 (트라이얼 사용 근거)**
 
-![Zapier 트라이얼](./images/zapier-trial.png)
+![Zapier 트라이얼](../images/zapier-trial.png)
 
 ## 요구사항 충족 체크
 
@@ -66,7 +66,7 @@
 
 ## 이미지 파일 안내
 
-`images/` 폴더에 아래 파일명으로 캡처를 넣어주세요:
+최상위 `images/` 폴더에 아래 파일명으로 캡처를 넣어주세요:
 
 - `make-scenario.png` — Make 시나리오 전체 구성 + 실행 로그
 - `make-discord.png` — Make Discord 메시지(긴급/일반)
